@@ -70,7 +70,7 @@ This project leverages **modern web technologies** to ensure a **responsive, fas
 ---
 
 ## ✉️ Contact Us
-📧 **Email:** [partsgang1@gmail.com](mailto:yashbhai9876@gmail.com)  
+📧 **Email:** [yashbhai9876@gmail.com](mailto:yashbhai9876@gmail.com)  
 
 ---
 
