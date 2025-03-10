@@ -1,0 +1,95 @@
+/* Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    overflow: auto;
+}
+
+.modal-content {
+    background-color: #fff;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 800px;
+    position: relative;
+}
+
+/* Carousel Container */
+.carousel {
+    margin-top: 20px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
+
+/* Images */
+.carousel-image {
+    display: none;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+/* Active Image */
+.carousel-image.active {
+    display: block;
+}
+
+/* Navigation Buttons */
+.carousel-prev,
+.carousel-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 50%;
+}
+
+.carousel-prev {
+    left: 10px;
+}
+
+.carousel-next {
+    right: 10px;
+}
+
+/* Center the normal image */
+.normal-image {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+    /* Center the image horizontally */
+    object-fit: contain;
+}
+
+.vidbtn {
+    color: crimson;
+    cursor: pointer;
+    border-radius: 100px;
+    background-color: white;
+    background-color: rgba(255, 255, 255, 0.423);
+    border: 2px solid rgba(255, 255, 255, 0.655);
+}
+
+.vidbtn:hover {
+    text-shadow: 0 0 4px crimson;
+    box-shadow: 0 0 4px crimson;
+    border: 2px solid crimson;
+}

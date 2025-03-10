@@ -1,0 +1,226 @@
+{
+    "all": [
+        {
+            "name": "Disc Rotors",
+            "image": [
+                "../static/product images/Disc Rotors.jpg",
+                "../static/product images/Disc Rotors Black.jpg"
+            ],
+            "description": "Get high-quality Disc Rotors at Parts Drive India. Designed for Mitsubishi vehicles, this product ensures superior performance. Order now for doorstep delivery."
+        },
+        {
+            "name": "Air Filter",
+            "image": "../static/product images/Air Filter.jpg",
+            "description": "The Mitsubishi Motors Air Filter (Part No. 1500A098) is a high-efficiency HEPA replacement filter for Mitsubishi vehicles. It meets or exceeds OEM standards, removing 99.97%–99.99% of airborne particles for superior engine protection. Available for sale at Parts Drive India."
+        },
+        {
+            "name": "Combination Switch",
+            "image": "../static/product images/Combination Switch.jpg",
+            "description": "The Mitsubishi OE Understeering Switch (Part No. MR277924) is a genuine combination switch designed for Mitsubishi vehicles, controlling headlights, turn signals, and more. Engineered for precise fit and durability, it ensures seamless functionality. Available for sale at Parts Drive India."
+        },
+        {
+            "name": "Fuel Filter",
+            "image": "../static/product images/Fuel Filter.jpg",
+            "description": "High-quality fuel filter for Mitsubishi vehicles."
+        },
+        {
+            "name": "Blower",
+            "image": "../static/product images/Blower.jpg",
+            "description": "High-quality blower for Mitsubishi vehicles."
+        },
+        {
+            "name": "Blower 2",
+            "image": "../static/product images/Blower 2.jpg",
+            "description": "High-quality blower for Mitsubishi vehicles."
+        },
+        {
+            "name": "Suspension",
+            "image": "../static/product images/Suspension.jpg",
+            "description": "High-quality suspension parts for Mitsubishi vehicles."
+        },
+        {
+            "name": "All Suspension Parts",
+            "image": "../static/product images/All Suspension Parts.jpg",
+            "description": "High-quality suspension parts for Mitsubishi vehicles."
+        },
+        {
+            "name": "Brake Pads",
+            "image": "../static/product images/Brake Pads.jpg",
+            "description": "High-quality brake pads for Mitsubishi vehicles."
+        },
+        {
+            "name": "Bush",
+            "image": "../static/product images/Bush.jpg",
+            "description": "High-quality bush for Mitsubishi vehicles."
+        },
+        {
+            "name": "Suspensions Shockers",
+            "image": "../static/product images/Suspensions Shockers.jpg",
+            "description": "High-quality suspension shockers for Mitsubishi vehicles."
+        },
+        {
+            "name": "Oil Filter",
+            "image": "../static/product images/Oil Filter.jpg",
+            "description": "High-quality oil filter for Mitsubishi vehicles."
+        },
+        {
+            "name": "Filter",
+            "image": "../static/product images/Filter.jpg",
+            "description": "High-quality filter for Mitsubishi vehicles."
+        },
+        {
+            "name": "Valve EGR",
+            "image": "../static/product images/Valve EGR.jpg",
+            "description": "High-quality valve EGR for Mitsubishi vehicles."
+        },
+        {
+            "name": "Blower",
+            "image": "../static/product images/Blower3.jpg",
+            "description": "High-quality blower for Mitsubishi vehicles."
+        },
+        {
+            "name": "Air Filter",
+            "image": "../static/product images/Air Filter 2.jpg",
+            "description": "High-quality air filter for Mitsubishi vehicles."
+        },
+        {
+            "name": "AC Filter",
+            "image": "../static/product images/AC Filter.jpg",
+            "description": "High-quality AC filter for Mitsubishi vehicles."
+        },
+        {
+            "name": "Filter Kits",
+            "image": "../static/product images/Filter Kits.jpg",
+            "description": "High-quality filter kits for Mitsubishi vehicles."
+        },
+        {
+            "name": "Fuel Filter",
+            "image": "../static/product images/Fuel Filter 2.jpg",
+            "description": "High-quality fuel filter for Mitsubishi vehicles."
+        }
+    ],
+    "pajerosfx": [
+        {
+            "name": "Pajero SFX/GLX Door handel",
+            "image": [
+                "../static/product images/door-handle-chrome-pajero-sfx-model.jpg",
+                "../static/product images/51c8IUUkBiL.jpg"
+            ],
+            "description": "High-quality tail light for Pajero SFX/GLX."
+        },        
+        {
+            "name": "Pajero SFX/GLX Tail Light",
+            "image": "../static/product images/GLX Tail Light.jpg",
+            "description": "High-quality tail light for Pajero SFX/GLX."
+        },
+        {
+            "name": "Air Filter",
+            "image": "../static/product images/Air Filter 3.jpg",
+            "description": "High-quality air filter for Pajero SFX/GLX."
+        },
+        {
+            "name": "Air Filter",
+            "image": "../static/product images/Air Filter 4.jpg",
+            "description": "High-quality air filter for Pajero SFX/GLX."
+        },
+        {
+            "name": "Pajero SFX Corner Bumper",
+            "image": "../static/product images/Front Corner Bumper.jpg",
+            "description": "High-quality corner bumper for Pajero SFX."
+        },
+        {
+            "name": "AC Vent",
+            "image": "../static/product images/AC Vent.jpg",
+            "description": "High-quality AC vent for Pajero SFX."
+        },
+        {
+            "name": "Pajero SFX Headlight",
+            "image": "../static/product images/Pajero SFX Headlight.jpg",
+            "description": "High-quality headlight for Pajero SFX."
+        },
+        {
+            "name": "Vaccum Pump",
+            "image": "../static/product images/Vaccum Pump.jpg",
+            "description": "High-quality vaccum pump for Pajero SFX."
+        },
+        {
+            "name": "Back Wheel Cover",
+            "image": "../static/product images/Back Wheel Cover.jpg",
+            "description": "High-quality back wheel cover for Pajero SFX."
+        }
+    ],
+    "pajerosport": [
+        {
+            "name": "Controller Switch",
+            "image": "../static/product images/Controller Switch.jpg",
+            "description": "High-quality controller switch for Pajero Sport."
+        },
+        {
+            "name": "ABS Sensor",
+            "image": "../static/product images/ABS Sensor.jpg",
+            "description": "High-quality ABS sensor for Pajero Sport."
+        },
+        {
+            "name": "Pajero Sport Headlight",
+            "image": "../static/product images/Pajero Sport Headlight.jpg",
+            "description": "High-quality headlight for Pajero Sport."
+        },
+        {
+            "name": "Pajero Sport Type 2 Front Grill",
+            "image": "../static/product images/Pajero Sport Type 2 Front Grill.jpg",
+            "description": "High-quality front grill for Pajero Sport Type 2."
+        }
+    ],
+    "cedia": [
+        {
+            "name": "Arm for Cedia",
+            "image": "../static/product images/Arm for Cedia.jpg",
+            "description": "High-quality arm for Cedia."
+        },
+        {
+            "name": "Cedia Headlight",
+            "image": "../static/product images/Cedia Headlight.jpg",
+            "description": "High-quality headlight for Cedia."
+        },
+        {
+            "name": "Tail Light",
+            "image": "../static/product images/Tail Light.jpg",
+            "description": "High-quality tail light for Cedia."
+        }
+    ],
+    "montero": [],
+    "outlander": [
+        {
+            "name": "Outlander Headlight",
+            "image": "../static/product images/Outlander Headlight.jpg",
+            "description": "High-quality headlight for Outlander."
+        },
+        {
+            "name": "Arm for Outlander",
+            "image": "../static/product images/Arm for Cedia.jpg",
+            "description": "High-quality arm for Outlander."
+        },
+        {
+            "name": "Pully Coil",
+            "image": "../static/product images/Pully Coil.jpg",
+            "description": "High-quality pully coil for Outlander."
+        }
+    ],
+    "lancer": [
+        {
+            "name": "AC Vent & Switch",
+            "image": "../static/product images/AC Vent & Switch.jpg",
+            "description": "High-quality AC vent and switch for Lancer."
+        },
+        {
+            "name": "Arm for Lancer",
+            "image": "../static/product images/Arm for Cedia.jpg",
+            "description": "High-quality arm for Lancer."
+        },
+        {
+            "name": "Lancer Tail Light",
+            "image": "../static/product images/Lancer Tail Light.jpg",
+            "description": "High-quality tail light for Lancer."
+        }
+    ]
+}
